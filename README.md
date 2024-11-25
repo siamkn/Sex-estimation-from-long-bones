@@ -44,6 +44,6 @@ UnBalancedData_KNNImputer
 
 **5\. Data**
 
-This folder contains the raw data used in the project.
+The dataset is available in the original website : https://web.utk.edu/~auerbach/GOLD.htm
 
 
